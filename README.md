@@ -20,25 +20,25 @@ The test set is used to see how well our model performs on unseen data. For each
 
 The data set includes features as follows:
 
-survival:	binary-class includes survival	passengers (0 = died, 1 = survived)
+**survival:**	binary-class includes survival	passengers (0 = died, 1 = survived)
 
-pclass: Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)
+**pclass:** Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)
 
-sex: Sex
+**sex:** Sex
 
-Age: Age in years
+**Age:** Age in years
 
-sibsp: number of siblings / spouses aboard the Titanic
+**sibsp:** number of siblings / spouses aboard the Titanic
 
-parch: number of parents / children aboard the Titanic
+**parch:** number of parents / children aboard the Titanic
 
-ticket: Ticket number
+**ticket:** Ticket number
 
-fare: Passenger fare
+**fare:** Passenger fare
 
-cabin: Cabin number
+**cabin:** Cabin number
 
-embarked: Port of Embarkation	(C = Cherbourg, Q = Queenstown, S = Southampton)
+**embarked:** Port of Embarkation	(C = Cherbourg, Q = Queenstown, S = Southampton)
 
 ## Outline
 
